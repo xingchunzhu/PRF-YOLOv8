@@ -1,0 +1,826 @@
+{
+    "imagePath": "1026.tif",
+    "imageData": null,
+    "imageHeight": 247,
+    "imageWidth": 642,
+    "flag": {},
+    "version": "5.0.2",
+    "shapes": [
+        {
+            "label": "coal",
+            "points": [
+                [
+                    484.0,
+                    210.0
+                ],
+                [
+                    494.0,
+                    224.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    569.0,
+                    52.5
+                ],
+                [
+                    589.0,
+                    82.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    555.0,
+                    176.0
+                ],
+                [
+                    584.0,
+                    200.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    235.0,
+                    176.5
+                ],
+                [
+                    251.0,
+                    193.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    348.5,
+                    152.0
+                ],
+                [
+                    362.5,
+                    165.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    100.0,
+                    210.0
+                ],
+                [
+                    117.0,
+                    230.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    232.0,
+                    195.0
+                ],
+                [
+                    263.0,
+                    223.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    100.5,
+                    87.0
+                ],
+                [
+                    119.5,
+                    102.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    285.0,
+                    55.5
+                ],
+                [
+                    329.0,
+                    84.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    396.0,
+                    180.5
+                ],
+                [
+                    423.0,
+                    195.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    455.5,
+                    185.0
+                ],
+                [
+                    475.5,
+                    203.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    120.5,
+                    82.0
+                ],
+                [
+                    128.5,
+                    90.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    239.0,
+                    132.0
+                ],
+                [
+                    248.0,
+                    141.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    419.0,
+                    104.0
+                ],
+                [
+                    461.0,
+                    136.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    59.0,
+                    185.0
+                ],
+                [
+                    67.0,
+                    194.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    23.5,
+                    178.5
+                ],
+                [
+                    32.5,
+                    190.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    381.5,
+                    135.0
+                ],
+                [
+                    412.5,
+                    173.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    329.0,
+                    57.0
+                ],
+                [
+                    340.0,
+                    65.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    139.0,
+                    40.0
+                ],
+                [
+                    154.0,
+                    49.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    77.5,
+                    60.0
+                ],
+                [
+                    104.5,
+                    98.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    545.5,
+                    110.0
+                ],
+                [
+                    553.5,
+                    118.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    130.0,
+                    177.0
+                ],
+                [
+                    146.0,
+                    198.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    481.0,
+                    102.0
+                ],
+                [
+                    542.0,
+                    140.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    595.0,
+                    116.0
+                ],
+                [
+                    604.0,
+                    124.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    340.5,
+                    68.5
+                ],
+                [
+                    351.5,
+                    85.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    266.0,
+                    96.0
+                ],
+                [
+                    278.0,
+                    108.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    405.0,
+                    90.5
+                ],
+                [
+                    420.0,
+                    110.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    181.5,
+                    197.0
+                ],
+                [
+                    206.5,
+                    233.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    251.5,
+                    64.5
+                ],
+                [
+                    288.5,
+                    91.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    72.5,
+                    114.0
+                ],
+                [
+                    109.5,
+                    158.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    482.0,
+                    29.0
+                ],
+                [
+                    507.0,
+                    51.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    495.0,
+                    129.5
+                ],
+                [
+                    553.0,
+                    199.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    147.5,
+                    97.5
+                ],
+                [
+                    165.5,
+                    111.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    435.0,
+                    90.5
+                ],
+                [
+                    454.0,
+                    118.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    279.0,
+                    66.5
+                ],
+                [
+                    303.0,
+                    89.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    146.0,
+                    52.5
+                ],
+                [
+                    193.0,
+                    101.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    391.5,
+                    59.5
+                ],
+                [
+                    415.5,
+                    85.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    159.5,
+                    102.0
+                ],
+                [
+                    204.5,
+                    136.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    93.0,
+                    107.0
+                ],
+                [
+                    102.0,
+                    118.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    583.5,
+                    219.5
+                ],
+                [
+                    608.5,
+                    240.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    492.5,
+                    48.0
+                ],
+                [
+                    505.5,
+                    59.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    396.0,
+                    210.0
+                ],
+                [
+                    420.0,
+                    237.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    218.5,
+                    138.5
+                ],
+                [
+                    231.5,
+                    153.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    47.5,
+                    103.0
+                ],
+                [
+                    67.5,
+                    115.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    42.5,
+                    210.0
+                ],
+                [
+                    71.5,
+                    234.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    156.0,
+                    195.0
+                ],
+                [
+                    175.0,
+                    213.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coal",
+            "points": [
+                [
+                    78.5,
+                    80.0
+                ],
+                [
+                    100.5,
+                    112.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    332.0,
+                    66.0
+                ],
+                [
+                    337.0,
+                    73.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    294.0,
+                    182.0
+                ],
+                [
+                    316.0,
+                    213.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    378.5,
+                    203.5
+                ],
+                [
+                    388.5,
+                    216.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gangue",
+            "points": [
+                [
+                    254.0,
+                    55.0
+                ],
+                [
+                    274.0,
+                    76.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

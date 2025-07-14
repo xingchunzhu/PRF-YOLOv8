@@ -1,0 +1,11 @@
+train: G:\study\study\目标检测\代码\yolov8-main\ultralytics-main\ultralytics\data\ImageSets\train
+val: G:\study\study\目标检测\代码\yolov8-main\ultralytics-main\ultralytics\data\ImageSets\val
+test: G:\study\study\目标检测\代码\yolov8-main\ultralytics-main\ultralytics\data\ImageSets\test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['行人']
+
+

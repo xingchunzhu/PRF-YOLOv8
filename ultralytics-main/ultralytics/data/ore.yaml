@@ -1,0 +1,14 @@
+train: G:\study\study\object-detection\code\yolov8-main\ultralytics-main\ultralytics\data\ImageSets\train
+val: G:\study\study\object-detection\code\yolov8-main\ultralytics-main\ultralytics\data\ImageSets\val
+test: G:\study\study\object-detection\code\yolov8-main\ultralytics-main\ultralytics\data\ImageSets\test
+
+# number of classes
+nc: 2
+
+# class names
+names:
+#  0: mine
+  0: coal
+  1: gangue
+
+
