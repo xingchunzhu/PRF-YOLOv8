@@ -1,20 +1,39 @@
 name: Sync from Gitee
+
 on:
   schedule:
-    - cron: '0 */4 * * *'     # 每 4 小时一次
-  workflow_dispatch:         # 也可以手动触发
+    - cron: '0 */24 * * *'   # 每 24 小时一次
+  workflow_dispatch:       # 也可以手动触发
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      # 1. 拉下整个 GitHub 仓库
       - name: Checkout GitHub repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0       # 获取所有历史
-      - name: Pull from Gitee
+          fetch-depth: 0
+
+      # 2. 把 Gitee 凭据写入 ~/.netrc（更安全、不在日志里暴露）
+      - name: Setup Gitee credentials
         run: |
-          git remote add gitee https://用户名:${{ zxc0090 }}@gitee.com/zxc0090/仓库.git
+          echo -e "machine gitee.com\n  login ${{ secrets.GITEE_USER }}\n  password ${{ secrets.GITEE_TOKEN }}" >> ~/.netrc
+          chmod 600 ~/.netrc
+
+      # 3. 添加 gitee 远程并拉取
+      - name: Fetch from Gitee
+        run: |
+          git remote remove gitee || true
+          git remote add gitee https://gitee.com/${{ secrets.GITEE_USER }}/你的-repo.git
           git fetch gitee
+
+      # 4. 合并分支
+      - name: Merge gitee/main into main
+        run: |
+          git checkout main
           git merge gitee/main --allow-unrelated-histories -m "Sync from Gitee"
+
+      # 5. 推回 GitHub
       - name: Push to GitHub
         run: git push origin main
