@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0       # 获取所有历史
       - name: Pull from Gitee
         run: |
-          git remote add gitee https://用户名:${{ secrets.GITEE_TOKEN }}@gitee.com/用户名/仓库.git
+          git remote add gitee https://用户名:${{ zxc0090 }}@gitee.com/zxc0090/仓库.git
           git fetch gitee
           git merge gitee/main --allow-unrelated-histories -m "Sync from Gitee"
       - name: Push to GitHub
