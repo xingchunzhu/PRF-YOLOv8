@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}  # 关键修复
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. 配置Git用户信息（必须）
       - name: Setup Git
